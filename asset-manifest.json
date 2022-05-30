@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Actividad-10---3er-corte/static/css/main.d693cd52.css",
+    "main.js": "/Actividad-10---3er-corte/static/js/main.91eb8b6e.js",
+    "index.html": "/Actividad-10---3er-corte/index.html",
+    "main.d693cd52.css.map": "/Actividad-10---3er-corte/static/css/main.d693cd52.css.map",
+    "main.91eb8b6e.js.map": "/Actividad-10---3er-corte/static/js/main.91eb8b6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d693cd52.css",
+    "static/js/main.91eb8b6e.js"
+  ]
+}
